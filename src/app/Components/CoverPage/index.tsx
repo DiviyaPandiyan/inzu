@@ -13,7 +13,7 @@ const CoverPage = () => {
         <div className="flex justify-center items-center mb-4">
           <div className="h-12 w-12 bg-[#ffffff] rounded-full"></div>
           <div className="h-12 w-12 bg-[#ffffff] rounded-full"></div>
-          <div className="h-12 w-12 bg-[#D9D9D9] rounded-full text-center flex items-center justify-center mr-20">
+          <div className="h-12 w-12 bg-[#D9D9D9] rounded-full text-center flex items-center justify-center mr-24">
             2
           </div>
         </div>
