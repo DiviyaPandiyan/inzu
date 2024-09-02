@@ -5,6 +5,8 @@ import ContentPage from "./Components/Content";
 import CoverPage from "./Components/CoverPage"
 import CustomurInfo from "./Components/CustomurInfo"
 import FormPage from "./Components/FormPage"
+import UploadDocs from "./Components/UploadDocs"
+import Footer from "./Components/Footer"
 
 
 export default function Home() {
@@ -16,6 +18,8 @@ export default function Home() {
       <CoverPage />
       <FormPage />
       <CustomurInfo />
+      <UploadDocs/>
+      <Footer/>
       
     </>
   );

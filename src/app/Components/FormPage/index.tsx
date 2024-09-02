@@ -15,7 +15,7 @@ const FormsPage = () => {
             alt=""
             width={100}
             height={100}
-            className="w-auto h-auto object-cover ml-16 md:ml-4"
+            className="w-auto h-auto object-cover ml-16 md:ml-4 mt-6"
           />
 
           <h1 className="text-4xl md:text-2xl font-bold ml-4 mt-4 text-[#170F49] md:justify-between">

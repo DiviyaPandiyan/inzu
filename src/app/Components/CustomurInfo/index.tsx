@@ -27,7 +27,14 @@ const CustomurInfo = () => {
             </div>
           </div>
         </div>
-       
+  {/* Step Indicator */}
+  <div className="flex justify-center items-center mb-4">
+          <div className="h-12 w-12 bg-[#ffffff] rounded-full"></div>
+          <div className="h-12 w-12 bg-[#ffffff] rounded-full"></div>
+          <div className="h-12 w-12 bg-[#D9D9D9] rounded-full text-center flex items-center justify-center mr-24 mt-4">
+            3
+          </div>
+        </div>
 
         {/* Customer Information Form */}
         <h2 className="font-bold text-center text-[#170F49] mt-6">Customer Information</h2>
