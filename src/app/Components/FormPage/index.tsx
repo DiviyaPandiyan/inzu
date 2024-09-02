@@ -12,9 +12,9 @@ const FormsPage = () => {
         <div className="max-w-4xl w-full bg-white">
           <Image
             src={img_n3}
-            alt=""
-            width={100}
-            height={100}
+            alt="a3"
+            width={20}
+            height={20}
             className="w-auto h-auto object-cover ml-16 md:ml-4 mt-6"
           />
 
