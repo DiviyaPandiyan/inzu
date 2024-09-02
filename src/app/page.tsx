@@ -1,10 +1,15 @@
-import Image from "next/image";
+
 import NavBar from "./Components/Layout/NavBar";
+import Hero from "./Components/Layout/Hero";
+import ContentPage from "./Components/Content";
+
 
 export default function Home() {
   return (
-    <main className="flex   justify-between">
-      <NavBar/>
-    </main>
+    <>
+      <NavBar />
+      <Hero />
+      <ContentPage/>
+    </>
   );
 }
