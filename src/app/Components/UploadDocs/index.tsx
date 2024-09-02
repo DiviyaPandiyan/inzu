@@ -63,7 +63,7 @@ const UploadDocs = () => {
                     </option>
                     <option value="passport">Passport</option>
                     <option value="id-card">ID Card</option>
-                    <option value="driver-license">Driver's License</option>
+                    <option value="driver-license">Driver License</option>
                   </select>
                 </div>
 
@@ -104,7 +104,7 @@ const UploadDocs = () => {
                     </option>
                     <option value="passport">Passport</option>
                     <option value="id-card">ID Card</option>
-                    <option value="driver-license">Driver's License</option>
+                    <option value="driver-license">Driver License</option>
                   </select>
                 </div>
 
@@ -145,7 +145,7 @@ const UploadDocs = () => {
                     </option>
                     <option value="passport">Passport</option>
                     <option value="id-card">ID Card</option>
-                    <option value="driver-license">Driver's License</option>
+                    <option value="driver-license">Driver License</option>
                   </select>
                 </div>
 
