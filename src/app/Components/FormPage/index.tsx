@@ -155,8 +155,8 @@ const FormsPage = () => {
         <Image
           src={img_n3}
           alt=""
-          width={100}
-          height={100}
+          width={20}
+          height={20}
           className="w-auto h-auto object-cover mx-auto md:ml-48"
         />
       </div>
