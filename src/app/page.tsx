@@ -3,7 +3,7 @@ import NavBar from "./Components/Layout/NavBar";
 
 export default function Home() {
   return (
-    <main className="">
+    <main className="flex   justify-between">
       <NavBar/>
     </main>
   );
