@@ -6,7 +6,7 @@ import CoverPage from "./Components/CoverPage"
 import CustomurInfo from "./Components/CustomurInfo"
 import FormPage from "./Components/FormPage"
 import UploadDocs from "./Components/UploadDocs"
-import Footer from "./Components/Footer"
+import Footer from "./Components/Footer/index"
 
 
 export default function Home() {
