@@ -8,7 +8,7 @@ import img_n3 from "./assets/pngegg (1).png";
 const CoverPage = () => {
   return (
     <>
-      <div className="flex flex-col items-center mt-10 px-4 md:px-12">
+      <div  className="flex flex-col items-center mt-10 px-4 md:px-12">
         {/* Step Indicator */}
         <div className="flex justify-center items-center mb-4">
           <div className="h-12 w-12 bg-[#ffffff] rounded-full"></div>
